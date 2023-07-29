@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Saxena</h1>
 <h3 align="center">Web Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshsaxena1703&label=Profile%20views&color=0e75b6&style=flat" alt="anshsaxena1703" /> </p>
-
 <p align="left"> <a href="https://twitter.com/anshsaxena1703" target="blank"><img src="https://img.shields.io/twitter/follow/anshsaxena1703?logo=twitter&style=for-the-badge" alt="anshsaxena1703" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
