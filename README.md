@@ -1,6 +1,6 @@
 ![MasterHead](https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd)
 # 💫 About Me:
-🌱 I’m currently learning Web Development, Machine Learning and Cloud Computing.<br><br>💬 Ask me about DSA and Competitive Programming.<br><br>📫 How to reach me anshsaxena1703@gmail.com<br><br>⚡ Fun fact : I like photography/videography and video editing.<br>
+🌱 I’m currently learning Machine Learning and Cloud Computing.<br><br>💬 Ask me about DSA and Competitive Programming.<br><br>📫 How to reach me anshsaxena1703@gmail.com<br><br>⚡ Fun fact : I like photography/videography and video editing.<br>
 
 
 <h3 align="left">Connect with me:</h3>
