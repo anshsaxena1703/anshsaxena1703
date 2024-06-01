@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ansh Saxena</h1>
 <h3 align="center">Machine Learning | Cloud Computing | Web Development | Competitive Programming | Data Structures </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshsaxena1703&label=Profile%20views&color=0e75b6&style=flat" alt="anshsaxena1703" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshsaxena1703&label=Profile%20views&color=0e75b6&style=flat" alt="anshsaxena1703" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshsaxena1703" alt="anshsaxena1703" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshsaxena1703" alt="anshsaxena1703" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Fault Detection using Vibrational Data**
+- 🔭 I’m currently working on **Fault Prediction using Vibrational Data**
 
 - 🌱 I’m currently learning **Machine Learning and Cloud Computing**
 
