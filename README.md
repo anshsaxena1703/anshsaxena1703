@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Cloud Movement Prediction using Deep Learning**
 
-- 🌱 I’m currently learning **Machine Learning and Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning, Web Development and Cloud Computing**
 
 - 📫 How to reach me **anshsaxena1703@gmail.com**
 
